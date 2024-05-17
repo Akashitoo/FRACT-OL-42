@@ -6,7 +6,7 @@ Projet graphque pour 42 , il consiste à explorer des fractales (julia, mandelbr
 
 Clonez le dépot :
 
-```https://github.com/Akashitoo/Fract-ol.git```
+```git clone https://github.com/Akashitoo/Fract-ol.git```
 
 ## Usage
 

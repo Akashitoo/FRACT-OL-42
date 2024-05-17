@@ -1,6 +1,6 @@
 # Fract-ol !
 
-Projet graphique pour 42 , il consiste à explorer des fractales (julia, mandelbrot, burningship).
+Projet graphique pour 42 qui consiste à explorer des fractales (julia, mandelbrot, burningship).
 
 ## Installation
 

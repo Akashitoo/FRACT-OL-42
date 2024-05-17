@@ -6,7 +6,7 @@
 #    By: abalasub <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/18 09:23:23 by abalasub          #+#    #+#              #
-#    Updated: 2023/12/20 13:52:55 by abalasub         ###   ########.fr        #
+#    Updated: 2024/04/19 19:36:30 by abalasub         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -38,3 +38,4 @@ re:		fclean $(NAME)
 
 .PHONY:		all clean fclean re
 
+.SILENT:

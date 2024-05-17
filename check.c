@@ -6,14 +6,14 @@
 /*   By: abalasub <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/01 15:23:32 by abalasub          #+#    #+#             */
-/*   Updated: 2024/03/01 17:25:54 by abalasub         ###   ########.fr       */
+/*   Updated: 2024/05/17 14:50:00 by abalasub         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include "fractol.h"
 
 void	print_error(void)
 {
-	ft_printf("\033[31m Erreur : Veuillez les bons paramètres !\033[0m\n\n");
+	ft_printf("\033[31m Erreur : Veuillez rentrer les bons paramètres !\033[0m\n\n");
 	ft_printf("	=> \033[35m./fractol <mandelbrot>\033[0m\n");
 	ft_printf("	=> \033[35m./fractol <julia> [Im] [Re]\033[0m\n");
 	ft_printf("	=> \033[35m./fractol <burningship>\033[0m\n\n");
